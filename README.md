@@ -161,28 +161,3 @@ Write a function that checks if a String is a [Palindrome](https://en.wikipedia.
 
 Write a function that checks if a String is a [pangram](https://en.wikipedia.org/wiki/Pangram)
 
-
-## Question 16
-
-Write your own `min()` and `max()` functions for an Array of Ints
-
-
-## Question 17
-
-Given two arrays of Ints, write a function that tells you all the values they have in common.
-
-
-## Question 18
-
-Find the most-frequently appearing Array of Ints in an Array of Arrays of Ints.
-
-
-## Question 19
-
-Given a String as input, rotate all a-z characters by one.  This is called [ROT-1 encryption](http://www.rot-n.com/).
-
-Sample input:
-`This is a test string. Anything can be written in here (even Zebras and zebras).`
-
-Sample output:
-`Uijt jt b uftu tusjoh. Bozuijoh dbo cf xsjuufo jo ifsf (fwfo Afcsbt boe afcsbt).`
